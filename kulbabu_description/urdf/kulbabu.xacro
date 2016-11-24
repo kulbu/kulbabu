@@ -126,10 +126,10 @@
     2.879793266 165 -0.07002962240595745 0.01876438076993274
     -->
 
-    <sensor_gazebo_range name="range0" linX="0.07002962240595745"   linY="0.018764380769932733"  linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="0.261799388" />
-    <sensor_gazebo_range name="range1" linX="0.05126524163602471"   linY="0.051265241636024673"  linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="0.785398163" />
-    <sensor_gazebo_range name="range2" linX="0.018764380769932802"  linY="0.07002962240595745"   linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="1.308996939" />
-    <sensor_gazebo_range name="range3" linX="-0.01876438076993273"  linY="0.07002962240595745"   linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="1.832595715" />
+    <sensor_gazebo_range name="range0" linX="-0.01876438076993273"  linY="0.07002962240595745"   linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="1.832595715" />
+    <sensor_gazebo_range name="range1" linX="0.018764380769932802"  linY="0.07002962240595745"   linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="1.308996939" />
+    <sensor_gazebo_range name="range2" linX="0.05126524163602471"   linY="0.051265241636024673"  linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="0.785398163" />
+    <sensor_gazebo_range name="range3" linX="0.07002962240595745"   linY="0.018764380769932733"  linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="0.261799388" />
 
     <sensor_gazebo_range name="range4" linX="0.07002962240595745"   linY="-0.018764380769932733" linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="-0.261799388" />
     <sensor_gazebo_range name="range5" linX="0.05126524163602471"   linY="-0.051265241636024673" linZ="${0.045+wheelRadius+chassisHeight/2}" angR="0" angP="0" angY="-0.785398163" />
