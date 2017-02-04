@@ -23,8 +23,7 @@ diff_drive_controller:
   estimate_velocity_from_position: false
 
   # Wheel separation and radius multipliers
-  # FIXME: Forcing six wheels into `diff_drive_controller` breaks max velocity limit in final result.
-  wheel_separation_multiplier: 1.420633 # Trial and error, 6 wheels.
+  wheel_separation_multiplier: 1.0 # default: 1.0
   wheel_radius_multiplier    : 1.0 # default: 1.0
 
   # Velocity and acceleration limits
